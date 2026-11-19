@@ -1,0 +1,17 @@
+Changes
+LICENSE
+Makefile.PL
+MANIFEST
+README.md
+examples/vue/app.pl
+examples/vue/package-lock.json
+examples/vue/package.json
+examples/vue/src/main.js
+examples/vue/src/pages/Create.vue
+examples/vue/src/pages/Tasks.vue
+examples/vue/src/style.css
+examples/vue/vite.config.js
+lib/Mojolicious/Plugin/Bifrost.pm
+t/protocol.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

@@ -1,0 +1,5 @@
+0.001
+  - Initial standalone Mojolicious adapter targeting the Inertia.js v3 core page protocol.
+  - First-load HTML, Inertia JSON, shared and lazy props, top-level partial reloads.
+  - Asset-version conflicts, local redirects, validation errors and error bags.
+  - Runnable source-only Vue example and Perl protocol tests.

@@ -1,6 +1,7 @@
 # Mojolicious::Plugin::Bifrost
 
-Bifrost is a server-side Perl adapter for the core [Inertia.js v3 protocol](https://inertiajs.com/docs/v3/core-concepts/the-protocol.md). Mojolicious keeps control of routes, sessions, validation, and authorization; page components run in the browser using an [official v3 frontend adapter](https://inertiajs.com/docs/v3/installation/client-side-setup). Bifrost itself does not install Node, bundle JavaScript, or require a Bifrost npm package.
+Bifrost is a server-side Perl adapter for the core [Inertia.js v3 protocol](https://inertiajs.com/docs/v3/core-concepts/the-protocol.md). Mojolicious keeps control of routes, sessions, validation, and authorization; page components run in the browser using an [official v3 frontend adapter](https://inertiajs.com/docs/v3/installation/client-side-setup). Bifrost itself does not install Node, bundle JavaScript, or require a Bifrost npm package. [`Example with mojolicious`](https://github.com/thomas666-beast/bifrost-task-desk)
+
 
 ## Install
 
